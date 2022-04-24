@@ -1,0 +1,1747 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 995438498, guid: 68c7e4565cde54155bb78d8e935f1ddb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  cacheType: 6
+  lastUpdatedAtString: 2022-04-23T21:39:26.908+02:00
+  initializedAtString: 2022-04-23T21:35:45.398+02:00
+  entries:
+  - path: .vs\Spacelauncher\v16\.suo
+    fullPath: C:\Users\dinos\OneDrive\Documentos\GitHub\Spacelauncher\.vs\Spacelauncher\v16\.suo
+    projectPath: .vs\Spacelauncher\v16\.suo
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assembly-CSharp-Editor-firstpass.csproj
+    fullPath: C:\Users\dinos\OneDrive\Documentos\GitHub\Spacelauncher\Assembly-CSharp-Editor-firstpass.csproj
+    projectPath: Assembly-CSharp-Editor-firstpass.csproj
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Materiales\Holograma.mat
+    fullPath: C:\Users\dinos\OneDrive\Documentos\GitHub\Spacelauncher\Assets\Materiales\Holograma.mat
+    projectPath: Assets\Materiales\Holograma.mat
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets\Plugins.meta
+    fullPath: C:\Users\dinos\OneDrive\Documentos\GitHub\Spacelauncher\Assets\Plugins.meta
+    projectPath: Assets\Plugins.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub.meta
+    fullPath: C:\Users\dinos\OneDrive\Documentos\GitHub\Spacelauncher\Assets\Plugins\GitHub.meta
+    projectPath: Assets\Plugins\GitHub.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor.meta
+    fullPath: C:\Users\dinos\OneDrive\Documentos\GitHub\Spacelauncher\Assets\Plugins\GitHub\Editor.meta
+    projectPath: Assets\Plugins\GitHub\Editor.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll
+    fullPath: C:\Users\dinos\OneDrive\Documentos\GitHub\Spacelauncher\Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll
+    projectPath: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll.meta
+    fullPath: C:\Users\dinos\OneDrive\Documentos\GitHub\Spacelauncher\Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\big-logo@2x.png
+    fullPath: C:\Users\dinos\OneDrive\Documentos\GitHub\Spacelauncher\Assets\Plugins\GitHub\Editor\big-logo@2x.png
+    projectPath: Assets\Plugins\GitHub\Editor\big-logo@2x.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\big-logo@2x.png.meta
+    fullPath: C:\Users\dinos\OneDrive\Documentos\GitHub\Spacelauncher\Assets\Plugins\GitHub\Editor\big-logo@2x.png.meta
+    projectPath: Assets\Plugins\GitHub\Editor\big-logo@2x.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\credits.txt
+    fullPath: C:\Users\dinos\OneDrive\Documentos\GitHub\Spacelauncher\Assets\Plugins\GitHub\Editor\credits.txt
+    projectPath: Assets\Plugins\GitHub\Editor\credits.txt
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\credits.txt.meta
+    fullPath: C:\Users\dinos\OneDrive\Documentos\GitHub\Spacelauncher\Assets\Plugins\GitHub\Editor\credits.txt.meta
+    projectPath: Assets\Plugins\GitHub\Editor\credits.txt.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\eula.txt
+    fullPath: C:\Users\dinos\OneDrive\Documentos\GitHub\Spacelauncher\Assets\Plugins\GitHub\Editor\eula.txt
+    projectPath: Assets\Plugins\GitHub\Editor\eula.txt
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\eula.txt.meta
+    fullPath: C:\Users\dinos\OneDrive\Documentos\GitHub\Spacelauncher\Assets\Plugins\GitHub\Editor\eula.txt.meta
+    projectPath: Assets\Plugins\GitHub\Editor\eula.txt.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\ExtensionLoader.cs
+    fullPath: C:\Users\dinos\OneDrive\Documentos\GitHub\Spacelauncher\Assets\Plugins\GitHub\Editor\ExtensionLoader.cs
+    projectPath: Assets\Plugins\GitHub\Editor\ExtensionLoader.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\ExtensionLoader.cs.meta
+    fullPath: C:\Users\dinos\OneDrive\Documentos\GitHub\Spacelauncher\Assets\Plugins\GitHub\Editor\ExtensionLoader.cs.meta
+    projectPath: Assets\Plugins\GitHub\Editor\ExtensionLoader.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll
+    fullPath: C:\Users\dinos\OneDrive\Documentos\GitHub\Spacelauncher\Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.meta
+    fullPath: C:\Users\dinos\OneDrive\Documentos\GitHub\Spacelauncher\Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.mdb
+    fullPath: C:\Users\dinos\OneDrive\Documentos\GitHub\Spacelauncher\Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.mdb
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.mdb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.mdb.meta
+    fullPath: C:\Users\dinos\OneDrive\Documentos\GitHub\Spacelauncher\Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.mdb.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.mdb.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Api.45.pdb
+    fullPath: C:\Users\dinos\OneDrive\Documentos\GitHub\Spacelauncher\Assets\Plugins\GitHub\Editor\GitHub.Api.45.pdb
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.45.pdb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Api.45.pdb.meta
+    fullPath: C:\Users\dinos\OneDrive\Documentos\GitHub\Spacelauncher\Assets\Plugins\GitHub\Editor\GitHub.Api.45.pdb.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.45.pdb.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Api.dll
+    fullPath: C:\Users\dinos\OneDrive\Documentos\GitHub\Spacelauncher\Assets\Plugins\GitHub\Editor\GitHub.Api.dll
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.meta
+    fullPath: C:\Users\dinos\OneDrive\Documentos\GitHub\Spacelauncher\Assets\Plugins\GitHub\Editor\GitHub.Api.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb
+    fullPath: C:\Users\dinos\OneDrive\Documentos\GitHub\Spacelauncher\Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb.meta
+    fullPath: C:\Users\dinos\OneDrive\Documentos\GitHub\Spacelauncher\Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Api.pdb
+    fullPath: C:\Users\dinos\OneDrive\Documentos\GitHub\Spacelauncher\Assets\Plugins\GitHub\Editor\GitHub.Api.pdb
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.pdb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Api.pdb.meta
+    fullPath: C:\Users\dinos\OneDrive\Documentos\GitHub\Spacelauncher\Assets\Plugins\GitHub\Editor\GitHub.Api.pdb.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.pdb.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll
+    fullPath: C:\Users\dinos\OneDrive\Documentos\GitHub\Spacelauncher\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.meta
+    fullPath: C:\Users\dinos\OneDrive\Documentos\GitHub\Spacelauncher\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb
+    fullPath: C:\Users\dinos\OneDrive\Documentos\GitHub\Spacelauncher\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb.meta
+    fullPath: C:\Users\dinos\OneDrive\Documentos\GitHub\Spacelauncher\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Logging.pdb
+    fullPath: C:\Users\dinos\OneDrive\Documentos\GitHub\Spacelauncher\Assets\Plugins\GitHub\Editor\GitHub.Logging.pdb
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.pdb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Logging.pdb.meta
+    fullPath: C:\Users\dinos\OneDrive\Documentos\GitHub\Spacelauncher\Assets\Plugins\GitHub\Editor\GitHub.Logging.pdb.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.pdb.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll
+    fullPath: C:\Users\dinos\OneDrive\Documentos\GitHub\Spacelauncher\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.meta
+    fullPath: C:\Users\dinos\OneDrive\Documentos\GitHub\Spacelauncher\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.mdb
+    fullPath: C:\Users\dinos\OneDrive\Documentos\GitHub\Spacelauncher\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.mdb
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.mdb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.mdb.meta
+    fullPath: C:\Users\dinos\OneDrive\Documentos\GitHub\Spacelauncher\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.mdb.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.mdb.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.pdb
+    fullPath: C:\Users\dinos\OneDrive\Documentos\GitHub\Spacelauncher\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.pdb
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.pdb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.pdb.meta
+    fullPath: C:\Users\dinos\OneDrive\Documentos\GitHub\Spacelauncher\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.pdb.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.pdb.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll
+    fullPath: C:\Users\dinos\OneDrive\Documentos\GitHub\Spacelauncher\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.meta
+    fullPath: C:\Users\dinos\OneDrive\Documentos\GitHub\Spacelauncher\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb
+    fullPath: C:\Users\dinos\OneDrive\Documentos\GitHub\Spacelauncher\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb.meta
+    fullPath: C:\Users\dinos\OneDrive\Documentos\GitHub\Spacelauncher\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.pdb
+    fullPath: C:\Users\dinos\OneDrive\Documentos\GitHub\Spacelauncher\Assets\Plugins\GitHub\Editor\GitHub.Unity.pdb
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.pdb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.pdb.meta
+    fullPath: C:\Users\dinos\OneDrive\Documentos\GitHub\Spacelauncher\Assets\Plugins\GitHub\Editor\GitHub.Unity.pdb.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.pdb.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll
+    fullPath: C:\Users\dinos\OneDrive\Documentos\GitHub\Spacelauncher\Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.meta
+    fullPath: C:\Users\dinos\OneDrive\Documentos\GitHub\Spacelauncher\Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.mdb
+    fullPath: C:\Users\dinos\OneDrive\Documentos\GitHub\Spacelauncher\Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.mdb
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.mdb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.mdb.meta
+    fullPath: C:\Users\dinos\OneDrive\Documentos\GitHub\Spacelauncher\Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.mdb.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.mdb.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.pdb
+    fullPath: C:\Users\dinos\OneDrive\Documentos\GitHub\Spacelauncher\Assets\Plugins\GitHub\Editor\GitHub.UnityShim.pdb
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.pdb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.pdb.meta
+    fullPath: C:\Users\dinos\OneDrive\Documentos\GitHub\Spacelauncher\Assets\Plugins\GitHub\Editor\GitHub.UnityShim.pdb.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.pdb.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\libsfw.bundle
+    fullPath: C:\Users\dinos\OneDrive\Documentos\GitHub\Spacelauncher\Assets\Plugins\GitHub\Editor\libsfw.bundle
+    projectPath: Assets\Plugins\GitHub\Editor\libsfw.bundle
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\libsfw.bundle.meta
+    fullPath: C:\Users\dinos\OneDrive\Documentos\GitHub\Spacelauncher\Assets\Plugins\GitHub\Editor\libsfw.bundle.meta
+    projectPath: Assets\Plugins\GitHub\Editor\libsfw.bundle.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\libsfw.so
+    fullPath: C:\Users\dinos\OneDrive\Documentos\GitHub\Spacelauncher\Assets\Plugins\GitHub\Editor\libsfw.so
+    projectPath: Assets\Plugins\GitHub\Editor\libsfw.so
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\libsfw.so.meta
+    fullPath: C:\Users\dinos\OneDrive\Documentos\GitHub\Spacelauncher\Assets\Plugins\GitHub\Editor\libsfw.so.meta
+    projectPath: Assets\Plugins\GitHub\Editor\libsfw.so.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\Mono.Posix.dll
+    fullPath: C:\Users\dinos\OneDrive\Documentos\GitHub\Spacelauncher\Assets\Plugins\GitHub\Editor\Mono.Posix.dll
+    projectPath: Assets\Plugins\GitHub\Editor\Mono.Posix.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\Mono.Posix.dll.meta
+    fullPath: C:\Users\dinos\OneDrive\Documentos\GitHub\Spacelauncher\Assets\Plugins\GitHub\Editor\Mono.Posix.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\Mono.Posix.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\QuickGuide.pdf
+    fullPath: C:\Users\dinos\OneDrive\Documentos\GitHub\Spacelauncher\Assets\Plugins\GitHub\Editor\QuickGuide.pdf
+    projectPath: Assets\Plugins\GitHub\Editor\QuickGuide.pdf
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\QuickGuide.pdf.meta
+    fullPath: C:\Users\dinos\OneDrive\Documentos\GitHub\Spacelauncher\Assets\Plugins\GitHub\Editor\QuickGuide.pdf.meta
+    projectPath: Assets\Plugins\GitHub\Editor\QuickGuide.pdf.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll
+    fullPath: C:\Users\dinos\OneDrive\Documentos\GitHub\Spacelauncher\Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll
+    projectPath: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll.meta
+    fullPath: C:\Users\dinos\OneDrive\Documentos\GitHub\Spacelauncher\Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\sfw.net.dll
+    fullPath: C:\Users\dinos\OneDrive\Documentos\GitHub\Spacelauncher\Assets\Plugins\GitHub\Editor\sfw.net.dll
+    projectPath: Assets\Plugins\GitHub\Editor\sfw.net.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\sfw.net.dll.meta
+    fullPath: C:\Users\dinos\OneDrive\Documentos\GitHub\Spacelauncher\Assets\Plugins\GitHub\Editor\sfw.net.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\sfw.net.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\System.Threading.dll
+    fullPath: C:\Users\dinos\OneDrive\Documentos\GitHub\Spacelauncher\Assets\Plugins\GitHub\Editor\System.Threading.dll
+    projectPath: Assets\Plugins\GitHub\Editor\System.Threading.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\System.Threading.dll.meta
+    fullPath: C:\Users\dinos\OneDrive\Documentos\GitHub\Spacelauncher\Assets\Plugins\GitHub\Editor\System.Threading.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\System.Threading.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs
+    fullPath: C:\Users\dinos\OneDrive\Documentos\GitHub\Spacelauncher\Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs
+    projectPath: Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs.meta
+    fullPath: C:\Users\dinos\OneDrive\Documentos\GitHub\Spacelauncher\Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs.meta
+    projectPath: Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\x64.meta
+    fullPath: C:\Users\dinos\OneDrive\Documentos\GitHub\Spacelauncher\Assets\Plugins\GitHub\Editor\x64.meta
+    projectPath: Assets\Plugins\GitHub\Editor\x64.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll
+    fullPath: C:\Users\dinos\OneDrive\Documentos\GitHub\Spacelauncher\Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll
+    projectPath: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll.meta
+    fullPath: C:\Users\dinos\OneDrive\Documentos\GitHub\Spacelauncher\Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll
+    fullPath: C:\Users\dinos\OneDrive\Documentos\GitHub\Spacelauncher\Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll
+    projectPath: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll.meta
+    fullPath: C:\Users\dinos\OneDrive\Documentos\GitHub\Spacelauncher\Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\x86.meta
+    fullPath: C:\Users\dinos\OneDrive\Documentos\GitHub\Spacelauncher\Assets\Plugins\GitHub\Editor\x86.meta
+    projectPath: Assets\Plugins\GitHub\Editor\x86.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll
+    fullPath: C:\Users\dinos\OneDrive\Documentos\GitHub\Spacelauncher\Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll
+    projectPath: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll.meta
+    fullPath: C:\Users\dinos\OneDrive\Documentos\GitHub\Spacelauncher\Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll
+    fullPath: C:\Users\dinos\OneDrive\Documentos\GitHub\Spacelauncher\Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll
+    projectPath: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll.meta
+    fullPath: C:\Users\dinos\OneDrive\Documentos\GitHub\Spacelauncher\Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scenes\Alpa Centuria.unity
+    fullPath: C:\Users\dinos\OneDrive\Documentos\GitHub\Spacelauncher\Assets\Scenes\Alpa
+      Centuria.unity
+    projectPath: Assets\Scenes\Alpa Centuria.unity
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets\Scripts\CamaraNave.cs
+    fullPath: C:\Users\dinos\OneDrive\Documentos\GitHub\Spacelauncher\Assets\Scripts\CamaraNave.cs
+    projectPath: Assets\Scripts\CamaraNave.cs
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets\Scripts\movimientonave.cs
+    fullPath: C:\Users\dinos\OneDrive\Documentos\GitHub\Spacelauncher\Assets\Scripts\movimientonave.cs
+    projectPath: Assets\Scripts\movimientonave.cs
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets\Sprites\proteccion.png
+    fullPath: C:\Users\dinos\OneDrive\Documentos\GitHub\Spacelauncher\Assets\Sprites\proteccion.png
+    projectPath: Assets\Sprites\proteccion.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Sprites\proteccion.png.meta
+    fullPath: C:\Users\dinos\OneDrive\Documentos\GitHub\Spacelauncher\Assets\Sprites\proteccion.png.meta
+    projectPath: Assets\Sprites\proteccion.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\APIUpdater\project-dependencies.graph
+    fullPath: C:\Users\dinos\OneDrive\Documentos\GitHub\Spacelauncher\Library\APIUpdater\project-dependencies.graph
+    projectPath: Library\APIUpdater\project-dependencies.graph
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ArtifactDB
+    fullPath: C:\Users\dinos\OneDrive\Documentos\GitHub\Spacelauncher\Library\ArtifactDB
+    projectPath: Library\ArtifactDB
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\Artifacts\03\031e93fc0904d1bf6e77e3af3af1e78d
+    fullPath: C:\Users\dinos\OneDrive\Documentos\GitHub\Spacelauncher\Library\Artifacts\03\031e93fc0904d1bf6e77e3af3af1e78d
+    projectPath: Library\Artifacts\03\031e93fc0904d1bf6e77e3af3af1e78d
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\05\050ecdc97e541922a18dade98c556f76
+    fullPath: C:\Users\dinos\OneDrive\Documentos\GitHub\Spacelauncher\Library\Artifacts\05\050ecdc97e541922a18dade98c556f76
+    projectPath: Library\Artifacts\05\050ecdc97e541922a18dade98c556f76
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\07\07a653c522a72cc1b0f696d0b7576cc3
+    fullPath: C:\Users\dinos\OneDrive\Documentos\GitHub\Spacelauncher\Library\Artifacts\07\07a653c522a72cc1b0f696d0b7576cc3
+    projectPath: Library\Artifacts\07\07a653c522a72cc1b0f696d0b7576cc3
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\08\08787100840c07c3089baaf9d3c42399
+    fullPath: C:\Users\dinos\OneDrive\Documentos\GitHub\Spacelauncher\Library\Artifacts\08\08787100840c07c3089baaf9d3c42399
+    projectPath: Library\Artifacts\08\08787100840c07c3089baaf9d3c42399
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\0a\0a15b592fdb107adaf1a96476f48640f
+    fullPath: C:\Users\dinos\OneDrive\Documentos\GitHub\Spacelauncher\Library\Artifacts\0a\0a15b592fdb107adaf1a96476f48640f
+    projectPath: Library\Artifacts\0a\0a15b592fdb107adaf1a96476f48640f
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\0a\0a2d94d0ef4bf8454608f84893ded1b4
+    fullPath: C:\Users\dinos\OneDrive\Documentos\GitHub\Spacelauncher\Library\Artifacts\0a\0a2d94d0ef4bf8454608f84893ded1b4
+    projectPath: Library\Artifacts\0a\0a2d94d0ef4bf8454608f84893ded1b4
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\0c\0c6465cc3031095bb50c9a02030ad2d0
+    fullPath: C:\Users\dinos\OneDrive\Documentos\GitHub\Spacelauncher\Library\Artifacts\0c\0c6465cc3031095bb50c9a02030ad2d0
+    projectPath: Library\Artifacts\0c\0c6465cc3031095bb50c9a02030ad2d0
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\0e\0e9f638b8050ab0407228b2f1580589c
+    fullPath: C:\Users\dinos\OneDrive\Documentos\GitHub\Spacelauncher\Library\Artifacts\0e\0e9f638b8050ab0407228b2f1580589c
+    projectPath: Library\Artifacts\0e\0e9f638b8050ab0407228b2f1580589c
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\11\1127b8c29977ca37c854f1a2dc15be1c
+    fullPath: C:\Users\dinos\OneDrive\Documentos\GitHub\Spacelauncher\Library\Artifacts\11\1127b8c29977ca37c854f1a2dc15be1c
+    projectPath: Library\Artifacts\11\1127b8c29977ca37c854f1a2dc15be1c
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\17\17e90e3a67314495377576527f49ca17
+    fullPath: C:\Users\dinos\OneDrive\Documentos\GitHub\Spacelauncher\Library\Artifacts\17\17e90e3a67314495377576527f49ca17
+    projectPath: Library\Artifacts\17\17e90e3a67314495377576527f49ca17
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\19\19f3f3a72d2b70d4f7f7583b6e3dbcab
+    fullPath: C:\Users\dinos\OneDrive\Documentos\GitHub\Spacelauncher\Library\Artifacts\19\19f3f3a72d2b70d4f7f7583b6e3dbcab
+    projectPath: Library\Artifacts\19\19f3f3a72d2b70d4f7f7583b6e3dbcab
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\1d\1d1e68bf981f4ef5c4727acbefe53a41
+    fullPath: C:\Users\dinos\OneDrive\Documentos\GitHub\Spacelauncher\Library\Artifacts\1d\1d1e68bf981f4ef5c4727acbefe53a41
+    projectPath: Library\Artifacts\1d\1d1e68bf981f4ef5c4727acbefe53a41
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\1d\1de2102fea60bd33763422a48f4758a3
+    fullPath: C:\Users\dinos\OneDrive\Documentos\GitHub\Spacelauncher\Library\Artifacts\1d\1de2102fea60bd33763422a48f4758a3
+    projectPath: Library\Artifacts\1d\1de2102fea60bd33763422a48f4758a3
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\1f\1fe54318fe85aeab159f1a8b425c1aa5
+    fullPath: C:\Users\dinos\OneDrive\Documentos\GitHub\Spacelauncher\Library\Artifacts\1f\1fe54318fe85aeab159f1a8b425c1aa5
+    projectPath: Library\Artifacts\1f\1fe54318fe85aeab159f1a8b425c1aa5
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\2a\2a368307ad6106d22f3527779a174c19
+    fullPath: C:\Users\dinos\OneDrive\Documentos\GitHub\Spacelauncher\Library\Artifacts\2a\2a368307ad6106d22f3527779a174c19
+    projectPath: Library\Artifacts\2a\2a368307ad6106d22f3527779a174c19
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\30\3076d0ce202aae61bb11109076c8fd5a
+    fullPath: C:\Users\dinos\OneDrive\Documentos\GitHub\Spacelauncher\Library\Artifacts\30\3076d0ce202aae61bb11109076c8fd5a
+    projectPath: Library\Artifacts\30\3076d0ce202aae61bb11109076c8fd5a
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\32\32e81e945f55e6a65a8cd559a7896276
+    fullPath: C:\Users\dinos\OneDrive\Documentos\GitHub\Spacelauncher\Library\Artifacts\32\32e81e945f55e6a65a8cd559a7896276
+    projectPath: Library\Artifacts\32\32e81e945f55e6a65a8cd559a7896276
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\36\365fb2756481e56269c7442a935052e0
+    fullPath: C:\Users\dinos\OneDrive\Documentos\GitHub\Spacelauncher\Library\Artifacts\36\365fb2756481e56269c7442a935052e0
+    projectPath: Library\Artifacts\36\365fb2756481e56269c7442a935052e0
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\36\3674f9e1e0d4fa8658cd962b2f50b0d2
+    fullPath: C:\Users\dinos\OneDrive\Documentos\GitHub\Spacelauncher\Library\Artifacts\36\3674f9e1e0d4fa8658cd962b2f50b0d2
+    projectPath: Library\Artifacts\36\3674f9e1e0d4fa8658cd962b2f50b0d2
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\36\36d266a28e9987727050cacaae59c03a
+    fullPath: C:\Users\dinos\OneDrive\Documentos\GitHub\Spacelauncher\Library\Artifacts\36\36d266a28e9987727050cacaae59c03a
+    projectPath: Library\Artifacts\36\36d266a28e9987727050cacaae59c03a
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\3a\3aa9014188b856efa707814bf80a5147
+    fullPath: C:\Users\dinos\OneDrive\Documentos\GitHub\Spacelauncher\Library\Artifacts\3a\3aa9014188b856efa707814bf80a5147
+    projectPath: Library\Artifacts\3a\3aa9014188b856efa707814bf80a5147
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\3c\3cec0ecdfc353b2078a9307e90b0514f
+    fullPath: C:\Users\dinos\OneDrive\Documentos\GitHub\Spacelauncher\Library\Artifacts\3c\3cec0ecdfc353b2078a9307e90b0514f
+    projectPath: Library\Artifacts\3c\3cec0ecdfc353b2078a9307e90b0514f
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\3e\3ecfc35b824d0e14d9b6fa640cdc5c81
+    fullPath: C:\Users\dinos\OneDrive\Documentos\GitHub\Spacelauncher\Library\Artifacts\3e\3ecfc35b824d0e14d9b6fa640cdc5c81
+    projectPath: Library\Artifacts\3e\3ecfc35b824d0e14d9b6fa640cdc5c81
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\3f\3fde39a0ac32981cd308c39f571c105a
+    fullPath: C:\Users\dinos\OneDrive\Documentos\GitHub\Spacelauncher\Library\Artifacts\3f\3fde39a0ac32981cd308c39f571c105a
+    projectPath: Library\Artifacts\3f\3fde39a0ac32981cd308c39f571c105a
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\4a\4a808fb29e963668fd63aaa1e56970a0
+    fullPath: C:\Users\dinos\OneDrive\Documentos\GitHub\Spacelauncher\Library\Artifacts\4a\4a808fb29e963668fd63aaa1e56970a0
+    projectPath: Library\Artifacts\4a\4a808fb29e963668fd63aaa1e56970a0
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\4a\4a8aaac183e417237a60989d405a63e2
+    fullPath: C:\Users\dinos\OneDrive\Documentos\GitHub\Spacelauncher\Library\Artifacts\4a\4a8aaac183e417237a60989d405a63e2
+    projectPath: Library\Artifacts\4a\4a8aaac183e417237a60989d405a63e2
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\4a\4abe308a2d3992c356df8056facba816
+    fullPath: C:\Users\dinos\OneDrive\Documentos\GitHub\Spacelauncher\Library\Artifacts\4a\4abe308a2d3992c356df8056facba816
+    projectPath: Library\Artifacts\4a\4abe308a2d3992c356df8056facba816
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\4b\4b60a6b03fe9d6af22e1a72ff0ad6198
+    fullPath: C:\Users\dinos\OneDrive\Documentos\GitHub\Spacelauncher\Library\Artifacts\4b\4b60a6b03fe9d6af22e1a72ff0ad6198
+    projectPath: Library\Artifacts\4b\4b60a6b03fe9d6af22e1a72ff0ad6198
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\4c\4ca1ae28f25890e7ed6534cd1c112850
+    fullPath: C:\Users\dinos\OneDrive\Documentos\GitHub\Spacelauncher\Library\Artifacts\4c\4ca1ae28f25890e7ed6534cd1c112850
+    projectPath: Library\Artifacts\4c\4ca1ae28f25890e7ed6534cd1c112850
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\4d\4dbb11d3e9c1fc013b710f1c9656c8fd
+    fullPath: C:\Users\dinos\OneDrive\Documentos\GitHub\Spacelauncher\Library\Artifacts\4d\4dbb11d3e9c1fc013b710f1c9656c8fd
+    projectPath: Library\Artifacts\4d\4dbb11d3e9c1fc013b710f1c9656c8fd
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\4e\4ea6f494ca0114a955c84e0bc5becd53
+    fullPath: C:\Users\dinos\OneDrive\Documentos\GitHub\Spacelauncher\Library\Artifacts\4e\4ea6f494ca0114a955c84e0bc5becd53
+    projectPath: Library\Artifacts\4e\4ea6f494ca0114a955c84e0bc5becd53
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\4f\4f219499c41212929401718fd3cd366c
+    fullPath: C:\Users\dinos\OneDrive\Documentos\GitHub\Spacelauncher\Library\Artifacts\4f\4f219499c41212929401718fd3cd366c
+    projectPath: Library\Artifacts\4f\4f219499c41212929401718fd3cd366c
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\53\53b8f9e6bf63951c51032498834af4ab
+    fullPath: C:\Users\dinos\OneDrive\Documentos\GitHub\Spacelauncher\Library\Artifacts\53\53b8f9e6bf63951c51032498834af4ab
+    projectPath: Library\Artifacts\53\53b8f9e6bf63951c51032498834af4ab
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\54\5444936814d10fceea79a0195a6f71f0
+    fullPath: C:\Users\dinos\OneDrive\Documentos\GitHub\Spacelauncher\Library\Artifacts\54\5444936814d10fceea79a0195a6f71f0
+    projectPath: Library\Artifacts\54\5444936814d10fceea79a0195a6f71f0
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\54\5496128d44e854e03599d25172f037d8
+    fullPath: C:\Users\dinos\OneDrive\Documentos\GitHub\Spacelauncher\Library\Artifacts\54\5496128d44e854e03599d25172f037d8
+    projectPath: Library\Artifacts\54\5496128d44e854e03599d25172f037d8
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\58\5851a72227c5aba94d540cd82715bd5e
+    fullPath: C:\Users\dinos\OneDrive\Documentos\GitHub\Spacelauncher\Library\Artifacts\58\5851a72227c5aba94d540cd82715bd5e
+    projectPath: Library\Artifacts\58\5851a72227c5aba94d540cd82715bd5e
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\5a\5a5529510336c84d53d48d5e151870f2
+    fullPath: C:\Users\dinos\OneDrive\Documentos\GitHub\Spacelauncher\Library\Artifacts\5a\5a5529510336c84d53d48d5e151870f2
+    projectPath: Library\Artifacts\5a\5a5529510336c84d53d48d5e151870f2
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\5b\5b26994a6d5cdd9a8ea77c9495a6621b
+    fullPath: C:\Users\dinos\OneDrive\Documentos\GitHub\Spacelauncher\Library\Artifacts\5b\5b26994a6d5cdd9a8ea77c9495a6621b
+    projectPath: Library\Artifacts\5b\5b26994a6d5cdd9a8ea77c9495a6621b
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\60\60c5372f90cfb757cd63417347b21c54
+    fullPath: C:\Users\dinos\OneDrive\Documentos\GitHub\Spacelauncher\Library\Artifacts\60\60c5372f90cfb757cd63417347b21c54
+    projectPath: Library\Artifacts\60\60c5372f90cfb757cd63417347b21c54
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\64\64f2ef0d92a0f74e606ccd65d1aa9559
+    fullPath: C:\Users\dinos\OneDrive\Documentos\GitHub\Spacelauncher\Library\Artifacts\64\64f2ef0d92a0f74e606ccd65d1aa9559
+    projectPath: Library\Artifacts\64\64f2ef0d92a0f74e606ccd65d1aa9559
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\66\663738c7f7a347c2ea395d58975b9327
+    fullPath: C:\Users\dinos\OneDrive\Documentos\GitHub\Spacelauncher\Library\Artifacts\66\663738c7f7a347c2ea395d58975b9327
+    projectPath: Library\Artifacts\66\663738c7f7a347c2ea395d58975b9327
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\66\665a2112db78bb856e32464392f69518
+    fullPath: C:\Users\dinos\OneDrive\Documentos\GitHub\Spacelauncher\Library\Artifacts\66\665a2112db78bb856e32464392f69518
+    projectPath: Library\Artifacts\66\665a2112db78bb856e32464392f69518
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\66\66c8bcda36225ba091464c8df68c12f5
+    fullPath: C:\Users\dinos\OneDrive\Documentos\GitHub\Spacelauncher\Library\Artifacts\66\66c8bcda36225ba091464c8df68c12f5
+    projectPath: Library\Artifacts\66\66c8bcda36225ba091464c8df68c12f5
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\68\680369178ce46216dc9bac4d7372a021
+    fullPath: C:\Users\dinos\OneDrive\Documentos\GitHub\Spacelauncher\Library\Artifacts\68\680369178ce46216dc9bac4d7372a021
+    projectPath: Library\Artifacts\68\680369178ce46216dc9bac4d7372a021
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\6f\6f44cdcf96fe37abb9ddab18e378c3fc
+    fullPath: C:\Users\dinos\OneDrive\Documentos\GitHub\Spacelauncher\Library\Artifacts\6f\6f44cdcf96fe37abb9ddab18e378c3fc
+    projectPath: Library\Artifacts\6f\6f44cdcf96fe37abb9ddab18e378c3fc
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\72\72b42dc88d50f936f936b712b45087a7
+    fullPath: C:\Users\dinos\OneDrive\Documentos\GitHub\Spacelauncher\Library\Artifacts\72\72b42dc88d50f936f936b712b45087a7
+    projectPath: Library\Artifacts\72\72b42dc88d50f936f936b712b45087a7
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\74\74c5f8af1a192c5636f9c1da373f58ca
+    fullPath: C:\Users\dinos\OneDrive\Documentos\GitHub\Spacelauncher\Library\Artifacts\74\74c5f8af1a192c5636f9c1da373f58ca
+    projectPath: Library\Artifacts\74\74c5f8af1a192c5636f9c1da373f58ca
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\76\76b09290903b8c7da246ad69ed336ad2
+    fullPath: C:\Users\dinos\OneDrive\Documentos\GitHub\Spacelauncher\Library\Artifacts\76\76b09290903b8c7da246ad69ed336ad2
+    projectPath: Library\Artifacts\76\76b09290903b8c7da246ad69ed336ad2
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\7a\7adc86df301c761727d00972258c9887
+    fullPath: C:\Users\dinos\OneDrive\Documentos\GitHub\Spacelauncher\Library\Artifacts\7a\7adc86df301c761727d00972258c9887
+    projectPath: Library\Artifacts\7a\7adc86df301c761727d00972258c9887
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\7b\7b2d982ac319b257b833d3819e9b7a06
+    fullPath: C:\Users\dinos\OneDrive\Documentos\GitHub\Spacelauncher\Library\Artifacts\7b\7b2d982ac319b257b833d3819e9b7a06
+    projectPath: Library\Artifacts\7b\7b2d982ac319b257b833d3819e9b7a06
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\7b\7b5215a1912df53738ed54e8510f8851
+    fullPath: C:\Users\dinos\OneDrive\Documentos\GitHub\Spacelauncher\Library\Artifacts\7b\7b5215a1912df53738ed54e8510f8851
+    projectPath: Library\Artifacts\7b\7b5215a1912df53738ed54e8510f8851
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\81\811b9d40864c13f57f0b0ea9c714d5dc
+    fullPath: C:\Users\dinos\OneDrive\Documentos\GitHub\Spacelauncher\Library\Artifacts\81\811b9d40864c13f57f0b0ea9c714d5dc
+    projectPath: Library\Artifacts\81\811b9d40864c13f57f0b0ea9c714d5dc
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\82\82108f944ceb23fd0c375157bae96a18
+    fullPath: C:\Users\dinos\OneDrive\Documentos\GitHub\Spacelauncher\Library\Artifacts\82\82108f944ceb23fd0c375157bae96a18
+    projectPath: Library\Artifacts\82\82108f944ceb23fd0c375157bae96a18
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\83\8340e36b816a98d819c976033b764241
+    fullPath: C:\Users\dinos\OneDrive\Documentos\GitHub\Spacelauncher\Library\Artifacts\83\8340e36b816a98d819c976033b764241
+    projectPath: Library\Artifacts\83\8340e36b816a98d819c976033b764241
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\83\83addf3250c653ec04e146ee0486f1a8
+    fullPath: C:\Users\dinos\OneDrive\Documentos\GitHub\Spacelauncher\Library\Artifacts\83\83addf3250c653ec04e146ee0486f1a8
+    projectPath: Library\Artifacts\83\83addf3250c653ec04e146ee0486f1a8
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\87\8773326cf67baf09b1b03b9dad110338
+    fullPath: C:\Users\dinos\OneDrive\Documentos\GitHub\Spacelauncher\Library\Artifacts\87\8773326cf67baf09b1b03b9dad110338
+    projectPath: Library\Artifacts\87\8773326cf67baf09b1b03b9dad110338
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\8c\8c13f6844f9061ca584afae262000a65
+    fullPath: C:\Users\dinos\OneDrive\Documentos\GitHub\Spacelauncher\Library\Artifacts\8c\8c13f6844f9061ca584afae262000a65
+    projectPath: Library\Artifacts\8c\8c13f6844f9061ca584afae262000a65
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\8c\8c9613d108f5c0d5f1d31c8f46a08ae0
+    fullPath: C:\Users\dinos\OneDrive\Documentos\GitHub\Spacelauncher\Library\Artifacts\8c\8c9613d108f5c0d5f1d31c8f46a08ae0
+    projectPath: Library\Artifacts\8c\8c9613d108f5c0d5f1d31c8f46a08ae0
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\8d\8d5ff96fc8751bd50f1841c54c542467
+    fullPath: C:\Users\dinos\OneDrive\Documentos\GitHub\Spacelauncher\Library\Artifacts\8d\8d5ff96fc8751bd50f1841c54c542467
+    projectPath: Library\Artifacts\8d\8d5ff96fc8751bd50f1841c54c542467
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\8e\8e428bdada10273b8375b826cc307a24
+    fullPath: C:\Users\dinos\OneDrive\Documentos\GitHub\Spacelauncher\Library\Artifacts\8e\8e428bdada10273b8375b826cc307a24
+    projectPath: Library\Artifacts\8e\8e428bdada10273b8375b826cc307a24
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\96\968950ea3a208842937940e3749d9328
+    fullPath: C:\Users\dinos\OneDrive\Documentos\GitHub\Spacelauncher\Library\Artifacts\96\968950ea3a208842937940e3749d9328
+    projectPath: Library\Artifacts\96\968950ea3a208842937940e3749d9328
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\9a\9af957f233545a7c5e42c8eace3a5136
+    fullPath: C:\Users\dinos\OneDrive\Documentos\GitHub\Spacelauncher\Library\Artifacts\9a\9af957f233545a7c5e42c8eace3a5136
+    projectPath: Library\Artifacts\9a\9af957f233545a7c5e42c8eace3a5136
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\a0\a0ac700322354142a779c2dfe26f890d
+    fullPath: C:\Users\dinos\OneDrive\Documentos\GitHub\Spacelauncher\Library\Artifacts\a0\a0ac700322354142a779c2dfe26f890d
+    projectPath: Library\Artifacts\a0\a0ac700322354142a779c2dfe26f890d
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\a9\a9934561ac7699bc083d94e9c19d2c28
+    fullPath: C:\Users\dinos\OneDrive\Documentos\GitHub\Spacelauncher\Library\Artifacts\a9\a9934561ac7699bc083d94e9c19d2c28
+    projectPath: Library\Artifacts\a9\a9934561ac7699bc083d94e9c19d2c28
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\b0\b0e9dfbf04c1354ae7f18b0c5b4fa096
+    fullPath: C:\Users\dinos\OneDrive\Documentos\GitHub\Spacelauncher\Library\Artifacts\b0\b0e9dfbf04c1354ae7f18b0c5b4fa096
+    projectPath: Library\Artifacts\b0\b0e9dfbf04c1354ae7f18b0c5b4fa096
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\b2\b2ab926be38c80d02496043889fe13fb
+    fullPath: C:\Users\dinos\OneDrive\Documentos\GitHub\Spacelauncher\Library\Artifacts\b2\b2ab926be38c80d02496043889fe13fb
+    projectPath: Library\Artifacts\b2\b2ab926be38c80d02496043889fe13fb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\b2\b2ccf2dec9a7c5707122ade3e06b3df5
+    fullPath: C:\Users\dinos\OneDrive\Documentos\GitHub\Spacelauncher\Library\Artifacts\b2\b2ccf2dec9a7c5707122ade3e06b3df5
+    projectPath: Library\Artifacts\b2\b2ccf2dec9a7c5707122ade3e06b3df5
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\b4\b4feb22ad3b185bf4ad8144fc710df17
+    fullPath: C:\Users\dinos\OneDrive\Documentos\GitHub\Spacelauncher\Library\Artifacts\b4\b4feb22ad3b185bf4ad8144fc710df17
+    projectPath: Library\Artifacts\b4\b4feb22ad3b185bf4ad8144fc710df17
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\b5\b574e0f76b1eb269ad9878f132c2f588
+    fullPath: C:\Users\dinos\OneDrive\Documentos\GitHub\Spacelauncher\Library\Artifacts\b5\b574e0f76b1eb269ad9878f132c2f588
+    projectPath: Library\Artifacts\b5\b574e0f76b1eb269ad9878f132c2f588
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\b7\b70547605645b0fef1fe4d2cc1f0c8a1
+    fullPath: C:\Users\dinos\OneDrive\Documentos\GitHub\Spacelauncher\Library\Artifacts\b7\b70547605645b0fef1fe4d2cc1f0c8a1
+    projectPath: Library\Artifacts\b7\b70547605645b0fef1fe4d2cc1f0c8a1
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\b7\b78739cc8ee6cc6dfb4837a1ff3a2185
+    fullPath: C:\Users\dinos\OneDrive\Documentos\GitHub\Spacelauncher\Library\Artifacts\b7\b78739cc8ee6cc6dfb4837a1ff3a2185
+    projectPath: Library\Artifacts\b7\b78739cc8ee6cc6dfb4837a1ff3a2185
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\bc\bc23fa14b62ef80f1a7d7c84756c63ce
+    fullPath: C:\Users\dinos\OneDrive\Documentos\GitHub\Spacelauncher\Library\Artifacts\bc\bc23fa14b62ef80f1a7d7c84756c63ce
+    projectPath: Library\Artifacts\bc\bc23fa14b62ef80f1a7d7c84756c63ce
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\bd\bd3b3e5efd1936c5316dab4dc453bbb0
+    fullPath: C:\Users\dinos\OneDrive\Documentos\GitHub\Spacelauncher\Library\Artifacts\bd\bd3b3e5efd1936c5316dab4dc453bbb0
+    projectPath: Library\Artifacts\bd\bd3b3e5efd1936c5316dab4dc453bbb0
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\be\be902094cbd1af68c675fba42584651c
+    fullPath: C:\Users\dinos\OneDrive\Documentos\GitHub\Spacelauncher\Library\Artifacts\be\be902094cbd1af68c675fba42584651c
+    projectPath: Library\Artifacts\be\be902094cbd1af68c675fba42584651c
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\c0\c00df593a40c2275d0bf04aff8b846b8
+    fullPath: C:\Users\dinos\OneDrive\Documentos\GitHub\Spacelauncher\Library\Artifacts\c0\c00df593a40c2275d0bf04aff8b846b8
+    projectPath: Library\Artifacts\c0\c00df593a40c2275d0bf04aff8b846b8
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\c6\c691f779ca7f60bb06fee5308edaf513
+    fullPath: C:\Users\dinos\OneDrive\Documentos\GitHub\Spacelauncher\Library\Artifacts\c6\c691f779ca7f60bb06fee5308edaf513
+    projectPath: Library\Artifacts\c6\c691f779ca7f60bb06fee5308edaf513
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\c9\c9f91a9a80efbe1057c3863d6ce1725a
+    fullPath: C:\Users\dinos\OneDrive\Documentos\GitHub\Spacelauncher\Library\Artifacts\c9\c9f91a9a80efbe1057c3863d6ce1725a
+    projectPath: Library\Artifacts\c9\c9f91a9a80efbe1057c3863d6ce1725a
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\ca\ca212092137935a39876bca953f9a10c
+    fullPath: C:\Users\dinos\OneDrive\Documentos\GitHub\Spacelauncher\Library\Artifacts\ca\ca212092137935a39876bca953f9a10c
+    projectPath: Library\Artifacts\ca\ca212092137935a39876bca953f9a10c
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\cc\cc26ce7c9a970c0428eef69a9913832f
+    fullPath: C:\Users\dinos\OneDrive\Documentos\GitHub\Spacelauncher\Library\Artifacts\cc\cc26ce7c9a970c0428eef69a9913832f
+    projectPath: Library\Artifacts\cc\cc26ce7c9a970c0428eef69a9913832f
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\cc\cc953c94de17543aae2792c85426aebf
+    fullPath: C:\Users\dinos\OneDrive\Documentos\GitHub\Spacelauncher\Library\Artifacts\cc\cc953c94de17543aae2792c85426aebf
+    projectPath: Library\Artifacts\cc\cc953c94de17543aae2792c85426aebf
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\cf\cf7e2abbd769f82797d4723163bdbf8c
+    fullPath: C:\Users\dinos\OneDrive\Documentos\GitHub\Spacelauncher\Library\Artifacts\cf\cf7e2abbd769f82797d4723163bdbf8c
+    projectPath: Library\Artifacts\cf\cf7e2abbd769f82797d4723163bdbf8c
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\d0\d03e54270513bf905f8f8d6ab1f384c2
+    fullPath: C:\Users\dinos\OneDrive\Documentos\GitHub\Spacelauncher\Library\Artifacts\d0\d03e54270513bf905f8f8d6ab1f384c2
+    projectPath: Library\Artifacts\d0\d03e54270513bf905f8f8d6ab1f384c2
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\d1\d186fa40ae65a4021967bd50673a4f35
+    fullPath: C:\Users\dinos\OneDrive\Documentos\GitHub\Spacelauncher\Library\Artifacts\d1\d186fa40ae65a4021967bd50673a4f35
+    projectPath: Library\Artifacts\d1\d186fa40ae65a4021967bd50673a4f35
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\d3\d3ee1566ae27c67aed5aa8c9bd9c920c
+    fullPath: C:\Users\dinos\OneDrive\Documentos\GitHub\Spacelauncher\Library\Artifacts\d3\d3ee1566ae27c67aed5aa8c9bd9c920c
+    projectPath: Library\Artifacts\d3\d3ee1566ae27c67aed5aa8c9bd9c920c
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\d4\d482a57ce16789c188af66c042397d2f
+    fullPath: C:\Users\dinos\OneDrive\Documentos\GitHub\Spacelauncher\Library\Artifacts\d4\d482a57ce16789c188af66c042397d2f
+    projectPath: Library\Artifacts\d4\d482a57ce16789c188af66c042397d2f
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\d4\d4fb3aa8cbd333f813d6376b2be87c5a
+    fullPath: C:\Users\dinos\OneDrive\Documentos\GitHub\Spacelauncher\Library\Artifacts\d4\d4fb3aa8cbd333f813d6376b2be87c5a
+    projectPath: Library\Artifacts\d4\d4fb3aa8cbd333f813d6376b2be87c5a
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\da\daaea0052f58662397c75d09de8559e2
+    fullPath: C:\Users\dinos\OneDrive\Documentos\GitHub\Spacelauncher\Library\Artifacts\da\daaea0052f58662397c75d09de8559e2
+    projectPath: Library\Artifacts\da\daaea0052f58662397c75d09de8559e2
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\dd\dd6702f0396581372856f509e93fe681
+    fullPath: C:\Users\dinos\OneDrive\Documentos\GitHub\Spacelauncher\Library\Artifacts\dd\dd6702f0396581372856f509e93fe681
+    projectPath: Library\Artifacts\dd\dd6702f0396581372856f509e93fe681
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\e0\e0b88e15d747efc77a6237a7e1877d01
+    fullPath: C:\Users\dinos\OneDrive\Documentos\GitHub\Spacelauncher\Library\Artifacts\e0\e0b88e15d747efc77a6237a7e1877d01
+    projectPath: Library\Artifacts\e0\e0b88e15d747efc77a6237a7e1877d01
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\e1\e1570fbf2340a24544e7f62261be0b90
+    fullPath: C:\Users\dinos\OneDrive\Documentos\GitHub\Spacelauncher\Library\Artifacts\e1\e1570fbf2340a24544e7f62261be0b90
+    projectPath: Library\Artifacts\e1\e1570fbf2340a24544e7f62261be0b90
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\e8\e8aa08ac6e9bd895ff169c8afac63f57
+    fullPath: C:\Users\dinos\OneDrive\Documentos\GitHub\Spacelauncher\Library\Artifacts\e8\e8aa08ac6e9bd895ff169c8afac63f57
+    projectPath: Library\Artifacts\e8\e8aa08ac6e9bd895ff169c8afac63f57
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\e9\e975c2f2a24dc22097accd8bafca38fe
+    fullPath: C:\Users\dinos\OneDrive\Documentos\GitHub\Spacelauncher\Library\Artifacts\e9\e975c2f2a24dc22097accd8bafca38fe
+    projectPath: Library\Artifacts\e9\e975c2f2a24dc22097accd8bafca38fe
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\eb\eb9db342e88b3d9bc1a36b34c3ef7dfd
+    fullPath: C:\Users\dinos\OneDrive\Documentos\GitHub\Spacelauncher\Library\Artifacts\eb\eb9db342e88b3d9bc1a36b34c3ef7dfd
+    projectPath: Library\Artifacts\eb\eb9db342e88b3d9bc1a36b34c3ef7dfd
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\ec\ec71548bf1b2f7c0b7135308ca6910aa
+    fullPath: C:\Users\dinos\OneDrive\Documentos\GitHub\Spacelauncher\Library\Artifacts\ec\ec71548bf1b2f7c0b7135308ca6910aa
+    projectPath: Library\Artifacts\ec\ec71548bf1b2f7c0b7135308ca6910aa
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\ee\eeda2ff4878fcccda6a6795a6ae95c5b
+    fullPath: C:\Users\dinos\OneDrive\Documentos\GitHub\Spacelauncher\Library\Artifacts\ee\eeda2ff4878fcccda6a6795a6ae95c5b
+    projectPath: Library\Artifacts\ee\eeda2ff4878fcccda6a6795a6ae95c5b
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\ef\ef73c5607e069712d03bb62cf665d14a
+    fullPath: C:\Users\dinos\OneDrive\Documentos\GitHub\Spacelauncher\Library\Artifacts\ef\ef73c5607e069712d03bb62cf665d14a
+    projectPath: Library\Artifacts\ef\ef73c5607e069712d03bb62cf665d14a
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\f3\f31262a84037a9e60c4e23635c0c6b6e
+    fullPath: C:\Users\dinos\OneDrive\Documentos\GitHub\Spacelauncher\Library\Artifacts\f3\f31262a84037a9e60c4e23635c0c6b6e
+    projectPath: Library\Artifacts\f3\f31262a84037a9e60c4e23635c0c6b6e
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\f3\f337312b3614a6fd862fb0017f150903
+    fullPath: C:\Users\dinos\OneDrive\Documentos\GitHub\Spacelauncher\Library\Artifacts\f3\f337312b3614a6fd862fb0017f150903
+    projectPath: Library\Artifacts\f3\f337312b3614a6fd862fb0017f150903
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\f3\f3bf6275fb03d34922a4779a22958e1a
+    fullPath: C:\Users\dinos\OneDrive\Documentos\GitHub\Spacelauncher\Library\Artifacts\f3\f3bf6275fb03d34922a4779a22958e1a
+    projectPath: Library\Artifacts\f3\f3bf6275fb03d34922a4779a22958e1a
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\f7\f7c624b7f6628a51fb05fa63e123b6d6
+    fullPath: C:\Users\dinos\OneDrive\Documentos\GitHub\Spacelauncher\Library\Artifacts\f7\f7c624b7f6628a51fb05fa63e123b6d6
+    projectPath: Library\Artifacts\f7\f7c624b7f6628a51fb05fa63e123b6d6
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\fa\faa7a0fd36ebceb5ce4b35c1b0c0e17b
+    fullPath: C:\Users\dinos\OneDrive\Documentos\GitHub\Spacelauncher\Library\Artifacts\fa\faa7a0fd36ebceb5ce4b35c1b0c0e17b
+    projectPath: Library\Artifacts\fa\faa7a0fd36ebceb5ce4b35c1b0c0e17b
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\fd\fd43438c05369baa05a455c9ad267120
+    fullPath: C:\Users\dinos\OneDrive\Documentos\GitHub\Spacelauncher\Library\Artifacts\fd\fd43438c05369baa05a455c9ad267120
+    projectPath: Library\Artifacts\fd\fd43438c05369baa05a455c9ad267120
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\ff\ffd8914e0ccda982a0c31023555f979d
+    fullPath: C:\Users\dinos\OneDrive\Documentos\GitHub\Spacelauncher\Library\Artifacts\ff\ffd8914e0ccda982a0c31023555f979d
+    projectPath: Library\Artifacts\ff\ffd8914e0ccda982a0c31023555f979d
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Bee\1900b0aE.dag
+    fullPath: C:\Users\dinos\OneDrive\Documentos\GitHub\Spacelauncher\Library\Bee\1900b0aE.dag
+    projectPath: Library\Bee\1900b0aE.dag
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\Bee\1900b0aE.dag.json
+    fullPath: C:\Users\dinos\OneDrive\Documentos\GitHub\Spacelauncher\Library\Bee\1900b0aE.dag.json
+    projectPath: Library\Bee\1900b0aE.dag.json
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\Bee\1900b0aE.dag.outputdata
+    fullPath: C:\Users\dinos\OneDrive\Documentos\GitHub\Spacelauncher\Library\Bee\1900b0aE.dag.outputdata
+    projectPath: Library\Bee\1900b0aE.dag.outputdata
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\Bee\1900b0aE.dag_derived
+    fullPath: C:\Users\dinos\OneDrive\Documentos\GitHub\Spacelauncher\Library\Bee\1900b0aE.dag_derived
+    projectPath: Library\Bee\1900b0aE.dag_derived
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\Bee\1900b0aE-inputdata.json
+    fullPath: C:\Users\dinos\OneDrive\Documentos\GitHub\Spacelauncher\Library\Bee\1900b0aE-inputdata.json
+    projectPath: Library\Bee\1900b0aE-inputdata.json
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\Bee\artifacts\1900b0aE.dag\Assembly-CSharp.dll
+    fullPath: C:\Users\dinos\OneDrive\Documentos\GitHub\Spacelauncher\Library\Bee\artifacts\1900b0aE.dag\Assembly-CSharp.dll
+    projectPath: Library\Bee\artifacts\1900b0aE.dag\Assembly-CSharp.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\Bee\artifacts\1900b0aE.dag\Assembly-CSharp.pdb
+    fullPath: C:\Users\dinos\OneDrive\Documentos\GitHub\Spacelauncher\Library\Bee\artifacts\1900b0aE.dag\Assembly-CSharp.pdb
+    projectPath: Library\Bee\artifacts\1900b0aE.dag\Assembly-CSharp.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\Bee\artifacts\1900b0aE.dag\Assembly-CSharp.ref.dll
+    fullPath: C:\Users\dinos\OneDrive\Documentos\GitHub\Spacelauncher\Library\Bee\artifacts\1900b0aE.dag\Assembly-CSharp.ref.dll
+    projectPath: Library\Bee\artifacts\1900b0aE.dag\Assembly-CSharp.ref.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\Bee\artifacts\1900b0aE.dag\Assembly-CSharp-Editor-firstpass.dll
+    fullPath: C:\Users\dinos\OneDrive\Documentos\GitHub\Spacelauncher\Library\Bee\artifacts\1900b0aE.dag\Assembly-CSharp-Editor-firstpass.dll
+    projectPath: Library\Bee\artifacts\1900b0aE.dag\Assembly-CSharp-Editor-firstpass.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Bee\artifacts\1900b0aE.dag\Assembly-CSharp-Editor-firstpass.dll.mvfrm
+    fullPath: C:\Users\dinos\OneDrive\Documentos\GitHub\Spacelauncher\Library\Bee\artifacts\1900b0aE.dag\Assembly-CSharp-Editor-firstpass.dll.mvfrm
+    projectPath: Library\Bee\artifacts\1900b0aE.dag\Assembly-CSharp-Editor-firstpass.dll.mvfrm
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Bee\artifacts\1900b0aE.dag\Assembly-CSharp-Editor-firstpass.dll.mvfrm.rsp
+    fullPath: C:\Users\dinos\OneDrive\Documentos\GitHub\Spacelauncher\Library\Bee\artifacts\1900b0aE.dag\Assembly-CSharp-Editor-firstpass.dll.mvfrm.rsp
+    projectPath: Library\Bee\artifacts\1900b0aE.dag\Assembly-CSharp-Editor-firstpass.dll.mvfrm.rsp
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Bee\artifacts\1900b0aE.dag\Assembly-CSharp-Editor-firstpass.pdb
+    fullPath: C:\Users\dinos\OneDrive\Documentos\GitHub\Spacelauncher\Library\Bee\artifacts\1900b0aE.dag\Assembly-CSharp-Editor-firstpass.pdb
+    projectPath: Library\Bee\artifacts\1900b0aE.dag\Assembly-CSharp-Editor-firstpass.pdb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Bee\artifacts\1900b0aE.dag\Assembly-CSharp-Editor-firstpass.ref.dll
+    fullPath: C:\Users\dinos\OneDrive\Documentos\GitHub\Spacelauncher\Library\Bee\artifacts\1900b0aE.dag\Assembly-CSharp-Editor-firstpass.ref.dll
+    projectPath: Library\Bee\artifacts\1900b0aE.dag\Assembly-CSharp-Editor-firstpass.ref.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Bee\artifacts\1900b0aE.dag\Assembly-CSharp-Editor-firstpass.rsp
+    fullPath: C:\Users\dinos\OneDrive\Documentos\GitHub\Spacelauncher\Library\Bee\artifacts\1900b0aE.dag\Assembly-CSharp-Editor-firstpass.rsp
+    projectPath: Library\Bee\artifacts\1900b0aE.dag\Assembly-CSharp-Editor-firstpass.rsp
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Bee\artifacts\1900b0aE.dag\Unity.CollabProxy.Editor.dll
+    fullPath: C:\Users\dinos\OneDrive\Documentos\GitHub\Spacelauncher\Library\Bee\artifacts\1900b0aE.dag\Unity.CollabProxy.Editor.dll
+    projectPath: Library\Bee\artifacts\1900b0aE.dag\Unity.CollabProxy.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\Bee\artifacts\1900b0aE.dag\Unity.CollabProxy.Editor.pdb
+    fullPath: C:\Users\dinos\OneDrive\Documentos\GitHub\Spacelauncher\Library\Bee\artifacts\1900b0aE.dag\Unity.CollabProxy.Editor.pdb
+    projectPath: Library\Bee\artifacts\1900b0aE.dag\Unity.CollabProxy.Editor.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\Bee\artifacts\1900b0aE.dag\Unity.CollabProxy.Editor.rsp
+    fullPath: C:\Users\dinos\OneDrive\Documentos\GitHub\Spacelauncher\Library\Bee\artifacts\1900b0aE.dag\Unity.CollabProxy.Editor.rsp
+    projectPath: Library\Bee\artifacts\1900b0aE.dag\Unity.CollabProxy.Editor.rsp
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\Bee\artifacts\1900b0aE.dag\Unity.Services.Core.Editor.dll
+    fullPath: C:\Users\dinos\OneDrive\Documentos\GitHub\Spacelauncher\Library\Bee\artifacts\1900b0aE.dag\Unity.Services.Core.Editor.dll
+    projectPath: Library\Bee\artifacts\1900b0aE.dag\Unity.Services.Core.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\Bee\artifacts\1900b0aE.dag\Unity.Services.Core.Editor.pdb
+    fullPath: C:\Users\dinos\OneDrive\Documentos\GitHub\Spacelauncher\Library\Bee\artifacts\1900b0aE.dag\Unity.Services.Core.Editor.pdb
+    projectPath: Library\Bee\artifacts\1900b0aE.dag\Unity.Services.Core.Editor.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\Bee\artifacts\1900b0aE.dag\Unity.Services.Core.Editor.rsp
+    fullPath: C:\Users\dinos\OneDrive\Documentos\GitHub\Spacelauncher\Library\Bee\artifacts\1900b0aE.dag\Unity.Services.Core.Editor.rsp
+    projectPath: Library\Bee\artifacts\1900b0aE.dag\Unity.Services.Core.Editor.rsp
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\Bee\artifacts\1900b0aE.dag\Unity.TextMeshPro.dll
+    fullPath: C:\Users\dinos\OneDrive\Documentos\GitHub\Spacelauncher\Library\Bee\artifacts\1900b0aE.dag\Unity.TextMeshPro.dll
+    projectPath: Library\Bee\artifacts\1900b0aE.dag\Unity.TextMeshPro.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\Bee\artifacts\1900b0aE.dag\Unity.TextMeshPro.Editor.dll
+    fullPath: C:\Users\dinos\OneDrive\Documentos\GitHub\Spacelauncher\Library\Bee\artifacts\1900b0aE.dag\Unity.TextMeshPro.Editor.dll
+    projectPath: Library\Bee\artifacts\1900b0aE.dag\Unity.TextMeshPro.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\Bee\artifacts\1900b0aE.dag\Unity.TextMeshPro.Editor.pdb
+    fullPath: C:\Users\dinos\OneDrive\Documentos\GitHub\Spacelauncher\Library\Bee\artifacts\1900b0aE.dag\Unity.TextMeshPro.Editor.pdb
+    projectPath: Library\Bee\artifacts\1900b0aE.dag\Unity.TextMeshPro.Editor.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\Bee\artifacts\1900b0aE.dag\Unity.TextMeshPro.Editor.rsp
+    fullPath: C:\Users\dinos\OneDrive\Documentos\GitHub\Spacelauncher\Library\Bee\artifacts\1900b0aE.dag\Unity.TextMeshPro.Editor.rsp
+    projectPath: Library\Bee\artifacts\1900b0aE.dag\Unity.TextMeshPro.Editor.rsp
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\Bee\artifacts\1900b0aE.dag\Unity.TextMeshPro.pdb
+    fullPath: C:\Users\dinos\OneDrive\Documentos\GitHub\Spacelauncher\Library\Bee\artifacts\1900b0aE.dag\Unity.TextMeshPro.pdb
+    projectPath: Library\Bee\artifacts\1900b0aE.dag\Unity.TextMeshPro.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\Bee\artifacts\1900b0aE.dag\Unity.TextMeshPro.rsp
+    fullPath: C:\Users\dinos\OneDrive\Documentos\GitHub\Spacelauncher\Library\Bee\artifacts\1900b0aE.dag\Unity.TextMeshPro.rsp
+    projectPath: Library\Bee\artifacts\1900b0aE.dag\Unity.TextMeshPro.rsp
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\Bee\artifacts\1900b0aE.dag\Unity.Timeline.dll
+    fullPath: C:\Users\dinos\OneDrive\Documentos\GitHub\Spacelauncher\Library\Bee\artifacts\1900b0aE.dag\Unity.Timeline.dll
+    projectPath: Library\Bee\artifacts\1900b0aE.dag\Unity.Timeline.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\Bee\artifacts\1900b0aE.dag\Unity.Timeline.Editor.dll
+    fullPath: C:\Users\dinos\OneDrive\Documentos\GitHub\Spacelauncher\Library\Bee\artifacts\1900b0aE.dag\Unity.Timeline.Editor.dll
+    projectPath: Library\Bee\artifacts\1900b0aE.dag\Unity.Timeline.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\Bee\artifacts\1900b0aE.dag\Unity.Timeline.Editor.pdb
+    fullPath: C:\Users\dinos\OneDrive\Documentos\GitHub\Spacelauncher\Library\Bee\artifacts\1900b0aE.dag\Unity.Timeline.Editor.pdb
+    projectPath: Library\Bee\artifacts\1900b0aE.dag\Unity.Timeline.Editor.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\Bee\artifacts\1900b0aE.dag\Unity.Timeline.Editor.rsp
+    fullPath: C:\Users\dinos\OneDrive\Documentos\GitHub\Spacelauncher\Library\Bee\artifacts\1900b0aE.dag\Unity.Timeline.Editor.rsp
+    projectPath: Library\Bee\artifacts\1900b0aE.dag\Unity.Timeline.Editor.rsp
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\Bee\artifacts\1900b0aE.dag\Unity.Timeline.pdb
+    fullPath: C:\Users\dinos\OneDrive\Documentos\GitHub\Spacelauncher\Library\Bee\artifacts\1900b0aE.dag\Unity.Timeline.pdb
+    projectPath: Library\Bee\artifacts\1900b0aE.dag\Unity.Timeline.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\Bee\artifacts\1900b0aE.dag\Unity.Timeline.rsp
+    fullPath: C:\Users\dinos\OneDrive\Documentos\GitHub\Spacelauncher\Library\Bee\artifacts\1900b0aE.dag\Unity.Timeline.rsp
+    projectPath: Library\Bee\artifacts\1900b0aE.dag\Unity.Timeline.rsp
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\Bee\artifacts\1900b0aE.dag\Unity.VSCode.Editor.dll
+    fullPath: C:\Users\dinos\OneDrive\Documentos\GitHub\Spacelauncher\Library\Bee\artifacts\1900b0aE.dag\Unity.VSCode.Editor.dll
+    projectPath: Library\Bee\artifacts\1900b0aE.dag\Unity.VSCode.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\Bee\artifacts\1900b0aE.dag\Unity.VSCode.Editor.pdb
+    fullPath: C:\Users\dinos\OneDrive\Documentos\GitHub\Spacelauncher\Library\Bee\artifacts\1900b0aE.dag\Unity.VSCode.Editor.pdb
+    projectPath: Library\Bee\artifacts\1900b0aE.dag\Unity.VSCode.Editor.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\Bee\artifacts\1900b0aE.dag\Unity.VSCode.Editor.rsp
+    fullPath: C:\Users\dinos\OneDrive\Documentos\GitHub\Spacelauncher\Library\Bee\artifacts\1900b0aE.dag\Unity.VSCode.Editor.rsp
+    projectPath: Library\Bee\artifacts\1900b0aE.dag\Unity.VSCode.Editor.rsp
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\Bee\artifacts\1900b0aE.dag\UnityEditor.UI.dll
+    fullPath: C:\Users\dinos\OneDrive\Documentos\GitHub\Spacelauncher\Library\Bee\artifacts\1900b0aE.dag\UnityEditor.UI.dll
+    projectPath: Library\Bee\artifacts\1900b0aE.dag\UnityEditor.UI.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\Bee\artifacts\1900b0aE.dag\UnityEditor.UI.pdb
+    fullPath: C:\Users\dinos\OneDrive\Documentos\GitHub\Spacelauncher\Library\Bee\artifacts\1900b0aE.dag\UnityEditor.UI.pdb
+    projectPath: Library\Bee\artifacts\1900b0aE.dag\UnityEditor.UI.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\Bee\artifacts\1900b0aE.dag\UnityEditor.UI.rsp
+    fullPath: C:\Users\dinos\OneDrive\Documentos\GitHub\Spacelauncher\Library\Bee\artifacts\1900b0aE.dag\UnityEditor.UI.rsp
+    projectPath: Library\Bee\artifacts\1900b0aE.dag\UnityEditor.UI.rsp
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\Bee\artifacts\1900b0aE.dag\UnityEngine.UI.dll
+    fullPath: C:\Users\dinos\OneDrive\Documentos\GitHub\Spacelauncher\Library\Bee\artifacts\1900b0aE.dag\UnityEngine.UI.dll
+    projectPath: Library\Bee\artifacts\1900b0aE.dag\UnityEngine.UI.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\Bee\artifacts\1900b0aE.dag\UnityEngine.UI.pdb
+    fullPath: C:\Users\dinos\OneDrive\Documentos\GitHub\Spacelauncher\Library\Bee\artifacts\1900b0aE.dag\UnityEngine.UI.pdb
+    projectPath: Library\Bee\artifacts\1900b0aE.dag\UnityEngine.UI.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\Bee\artifacts\1900b0aE.dag\UnityEngine.UI.rsp
+    fullPath: C:\Users\dinos\OneDrive\Documentos\GitHub\Spacelauncher\Library\Bee\artifacts\1900b0aE.dag\UnityEngine.UI.rsp
+    projectPath: Library\Bee\artifacts\1900b0aE.dag\UnityEngine.UI.rsp
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\Bee\backend_profiler0.traceevents
+    fullPath: C:\Users\dinos\OneDrive\Documentos\GitHub\Spacelauncher\Library\Bee\backend_profiler0.traceevents
+    projectPath: Library\Bee\backend_profiler0.traceevents
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\Bee\backend_profiler1.traceevents
+    fullPath: C:\Users\dinos\OneDrive\Documentos\GitHub\Spacelauncher\Library\Bee\backend_profiler1.traceevents
+    projectPath: Library\Bee\backend_profiler1.traceevents
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\Bee\buildprogram0.traceevents
+    fullPath: C:\Users\dinos\OneDrive\Documentos\GitHub\Spacelauncher\Library\Bee\buildprogram0.traceevents
+    projectPath: Library\Bee\buildprogram0.traceevents
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\Bee\fullprofile.json
+    fullPath: C:\Users\dinos\OneDrive\Documentos\GitHub\Spacelauncher\Library\Bee\fullprofile.json
+    projectPath: Library\Bee\fullprofile.json
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\Bee\tundra.digestcache
+    fullPath: C:\Users\dinos\OneDrive\Documentos\GitHub\Spacelauncher\Library\Bee\tundra.digestcache
+    projectPath: Library\Bee\tundra.digestcache
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\Bee\tundra.log.json
+    fullPath: C:\Users\dinos\OneDrive\Documentos\GitHub\Spacelauncher\Library\Bee\tundra.log.json
+    projectPath: Library\Bee\tundra.log.json
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\Bee\TundraBuildState.state
+    fullPath: C:\Users\dinos\OneDrive\Documentos\GitHub\Spacelauncher\Library\Bee\TundraBuildState.state
+    projectPath: Library\Bee\TundraBuildState.state
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\Bee\TundraBuildState.state.map
+    fullPath: C:\Users\dinos\OneDrive\Documentos\GitHub\Spacelauncher\Library\Bee\TundraBuildState.state.map
+    projectPath: Library\Bee\TundraBuildState.state.map
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\EditorInstance.json
+    fullPath: C:\Users\dinos\OneDrive\Documentos\GitHub\Spacelauncher\Library\EditorInstance.json
+    projectPath: Library\EditorInstance.json
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\gfu\cache\branches.yaml
+    fullPath: C:\Users\dinos\OneDrive\Documentos\GitHub\Spacelauncher\Library\gfu\cache\branches.yaml
+    projectPath: Library\gfu\cache\branches.yaml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\gfu\cache\gitlocks.yaml
+    fullPath: C:\Users\dinos\OneDrive\Documentos\GitHub\Spacelauncher\Library\gfu\cache\gitlocks.yaml
+    projectPath: Library\gfu\cache\gitlocks.yaml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\gfu\cache\gitlog.yaml
+    fullPath: C:\Users\dinos\OneDrive\Documentos\GitHub\Spacelauncher\Library\gfu\cache\gitlog.yaml
+    projectPath: Library\gfu\cache\gitlog.yaml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\gfu\cache\gitstatusentries.yaml
+    fullPath: C:\Users\dinos\OneDrive\Documentos\GitHub\Spacelauncher\Library\gfu\cache\gitstatusentries.yaml
+    projectPath: Library\gfu\cache\gitstatusentries.yaml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\gfu\cache\gittrackingstatus.yaml
+    fullPath: C:\Users\dinos\OneDrive\Documentos\GitHub\Spacelauncher\Library\gfu\cache\gittrackingstatus.yaml
+    projectPath: Library\gfu\cache\gittrackingstatus.yaml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\gfu\cache\gituser.yaml
+    fullPath: C:\Users\dinos\OneDrive\Documentos\GitHub\Spacelauncher\Library\gfu\cache\gituser.yaml
+    projectPath: Library\gfu\cache\gituser.yaml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\gfu\cache\repoinfo.yaml
+    fullPath: C:\Users\dinos\OneDrive\Documentos\GitHub\Spacelauncher\Library\gfu\cache\repoinfo.yaml
+    projectPath: Library\gfu\cache\repoinfo.yaml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\InspectorExpandedItems.asset
+    fullPath: C:\Users\dinos\OneDrive\Documentos\GitHub\Spacelauncher\Library\InspectorExpandedItems.asset
+    projectPath: Library\InspectorExpandedItems.asset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\SceneVisibilityState.asset
+    fullPath: C:\Users\dinos\OneDrive\Documentos\GitHub\Spacelauncher\Library\SceneVisibilityState.asset
+    projectPath: Library\SceneVisibilityState.asset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Assembly-CSharp.dll
+    fullPath: C:\Users\dinos\OneDrive\Documentos\GitHub\Spacelauncher\Library\ScriptAssemblies\Assembly-CSharp.dll
+    projectPath: Library\ScriptAssemblies\Assembly-CSharp.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Assembly-CSharp.pdb
+    fullPath: C:\Users\dinos\OneDrive\Documentos\GitHub\Spacelauncher\Library\ScriptAssemblies\Assembly-CSharp.pdb
+    projectPath: Library\ScriptAssemblies\Assembly-CSharp.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
+    fullPath: C:\Users\dinos\OneDrive\Documentos\GitHub\Spacelauncher\Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
+    projectPath: Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.pdb
+    fullPath: C:\Users\dinos\OneDrive\Documentos\GitHub\Spacelauncher\Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.pdb
+    projectPath: Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.pdb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+    fullPath: C:\Users\dinos\OneDrive\Documentos\GitHub\Spacelauncher\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+    projectPath: Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.CollabProxy.Editor.pdb
+    fullPath: C:\Users\dinos\OneDrive\Documentos\GitHub\Spacelauncher\Library\ScriptAssemblies\Unity.CollabProxy.Editor.pdb
+    projectPath: Library\ScriptAssemblies\Unity.CollabProxy.Editor.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.Services.Core.Editor.dll
+    fullPath: C:\Users\dinos\OneDrive\Documentos\GitHub\Spacelauncher\Library\ScriptAssemblies\Unity.Services.Core.Editor.dll
+    projectPath: Library\ScriptAssemblies\Unity.Services.Core.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.Services.Core.Editor.pdb
+    fullPath: C:\Users\dinos\OneDrive\Documentos\GitHub\Spacelauncher\Library\ScriptAssemblies\Unity.Services.Core.Editor.pdb
+    projectPath: Library\ScriptAssemblies\Unity.Services.Core.Editor.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.TextMeshPro.dll
+    fullPath: C:\Users\dinos\OneDrive\Documentos\GitHub\Spacelauncher\Library\ScriptAssemblies\Unity.TextMeshPro.dll
+    projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+    fullPath: C:\Users\dinos\OneDrive\Documentos\GitHub\Spacelauncher\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+    projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.TextMeshPro.Editor.pdb
+    fullPath: C:\Users\dinos\OneDrive\Documentos\GitHub\Spacelauncher\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.pdb
+    projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.Editor.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.TextMeshPro.pdb
+    fullPath: C:\Users\dinos\OneDrive\Documentos\GitHub\Spacelauncher\Library\ScriptAssemblies\Unity.TextMeshPro.pdb
+    projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.Timeline.dll
+    fullPath: C:\Users\dinos\OneDrive\Documentos\GitHub\Spacelauncher\Library\ScriptAssemblies\Unity.Timeline.dll
+    projectPath: Library\ScriptAssemblies\Unity.Timeline.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.Timeline.Editor.dll
+    fullPath: C:\Users\dinos\OneDrive\Documentos\GitHub\Spacelauncher\Library\ScriptAssemblies\Unity.Timeline.Editor.dll
+    projectPath: Library\ScriptAssemblies\Unity.Timeline.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.Timeline.Editor.pdb
+    fullPath: C:\Users\dinos\OneDrive\Documentos\GitHub\Spacelauncher\Library\ScriptAssemblies\Unity.Timeline.Editor.pdb
+    projectPath: Library\ScriptAssemblies\Unity.Timeline.Editor.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.Timeline.pdb
+    fullPath: C:\Users\dinos\OneDrive\Documentos\GitHub\Spacelauncher\Library\ScriptAssemblies\Unity.Timeline.pdb
+    projectPath: Library\ScriptAssemblies\Unity.Timeline.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.VSCode.Editor.dll
+    fullPath: C:\Users\dinos\OneDrive\Documentos\GitHub\Spacelauncher\Library\ScriptAssemblies\Unity.VSCode.Editor.dll
+    projectPath: Library\ScriptAssemblies\Unity.VSCode.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.VSCode.Editor.pdb
+    fullPath: C:\Users\dinos\OneDrive\Documentos\GitHub\Spacelauncher\Library\ScriptAssemblies\Unity.VSCode.Editor.pdb
+    projectPath: Library\ScriptAssemblies\Unity.VSCode.Editor.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\UnityEditor.UI.dll
+    fullPath: C:\Users\dinos\OneDrive\Documentos\GitHub\Spacelauncher\Library\ScriptAssemblies\UnityEditor.UI.dll
+    projectPath: Library\ScriptAssemblies\UnityEditor.UI.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\UnityEditor.UI.pdb
+    fullPath: C:\Users\dinos\OneDrive\Documentos\GitHub\Spacelauncher\Library\ScriptAssemblies\UnityEditor.UI.pdb
+    projectPath: Library\ScriptAssemblies\UnityEditor.UI.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\UnityEngine.UI.dll
+    fullPath: C:\Users\dinos\OneDrive\Documentos\GitHub\Spacelauncher\Library\ScriptAssemblies\UnityEngine.UI.dll
+    projectPath: Library\ScriptAssemblies\UnityEngine.UI.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\UnityEngine.UI.pdb
+    fullPath: C:\Users\dinos\OneDrive\Documentos\GitHub\Spacelauncher\Library\ScriptAssemblies\UnityEngine.UI.pdb
+    projectPath: Library\ScriptAssemblies\UnityEngine.UI.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\Search\transactions.db
+    fullPath: C:\Users\dinos\OneDrive\Documentos\GitHub\Spacelauncher\Library\Search\transactions.db
+    projectPath: Library\Search\transactions.db
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\SourceAssetDB
+    fullPath: C:\Users\dinos\OneDrive\Documentos\GitHub\Spacelauncher\Library\SourceAssetDB
+    projectPath: Library\SourceAssetDB
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\StateCache\MainStageHierarchy\96\9626f81be70cda4e6cc9e656f1772392.json
+    fullPath: C:\Users\dinos\OneDrive\Documentos\GitHub\Spacelauncher\Library\StateCache\MainStageHierarchy\96\9626f81be70cda4e6cc9e656f1772392.json
+    projectPath: Library\StateCache\MainStageHierarchy\96\9626f81be70cda4e6cc9e656f1772392.json
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\StateCache\SceneView\73\73a8e8256e0f8e4f0ad66d2edf1275f7.json
+    fullPath: C:\Users\dinos\OneDrive\Documentos\GitHub\Spacelauncher\Library\StateCache\SceneView\73\73a8e8256e0f8e4f0ad66d2edf1275f7.json
+    projectPath: Library\StateCache\SceneView\73\73a8e8256e0f8e4f0ad66d2edf1275f7.json
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Logs\AssetImportWorker0.log
+    fullPath: C:\Users\dinos\OneDrive\Documentos\GitHub\Spacelauncher\Logs\AssetImportWorker0.log
+    projectPath: Logs\AssetImportWorker0.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Logs\AssetImportWorker0-prev.log
+    fullPath: C:\Users\dinos\OneDrive\Documentos\GitHub\Spacelauncher\Logs\AssetImportWorker0-prev.log
+    projectPath: Logs\AssetImportWorker0-prev.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Logs\AssetImportWorker1.log
+    fullPath: C:\Users\dinos\OneDrive\Documentos\GitHub\Spacelauncher\Logs\AssetImportWorker1.log
+    projectPath: Logs\AssetImportWorker1.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Logs\AssetImportWorker1-prev.log
+    fullPath: C:\Users\dinos\OneDrive\Documentos\GitHub\Spacelauncher\Logs\AssetImportWorker1-prev.log
+    projectPath: Logs\AssetImportWorker1-prev.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Logs\AssetImportWorker2-prev.log
+    fullPath: C:\Users\dinos\OneDrive\Documentos\GitHub\Spacelauncher\Logs\AssetImportWorker2-prev.log
+    projectPath: Logs\AssetImportWorker2-prev.log
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Logs\AssetImportWorker3-prev.log
+    fullPath: C:\Users\dinos\OneDrive\Documentos\GitHub\Spacelauncher\Logs\AssetImportWorker3-prev.log
+    projectPath: Logs\AssetImportWorker3-prev.log
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Logs\AssetImportWorker4-prev.log
+    fullPath: C:\Users\dinos\OneDrive\Documentos\GitHub\Spacelauncher\Logs\AssetImportWorker4-prev.log
+    projectPath: Logs\AssetImportWorker4-prev.log
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Logs\AssetImportWorker5-prev.log
+    fullPath: C:\Users\dinos\OneDrive\Documentos\GitHub\Spacelauncher\Logs\AssetImportWorker5-prev.log
+    projectPath: Logs\AssetImportWorker5-prev.log
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Logs\shadercompiler-AssetImportWorker0.log
+    fullPath: C:\Users\dinos\OneDrive\Documentos\GitHub\Spacelauncher\Logs\shadercompiler-AssetImportWorker0.log
+    projectPath: Logs\shadercompiler-AssetImportWorker0.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Logs\shadercompiler-UnityShaderCompiler.exe0.log
+    fullPath: C:\Users\dinos\OneDrive\Documentos\GitHub\Spacelauncher\Logs\shadercompiler-UnityShaderCompiler.exe0.log
+    projectPath: Logs\shadercompiler-UnityShaderCompiler.exe0.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Spacelauncher.sln
+    fullPath: C:\Users\dinos\OneDrive\Documentos\GitHub\Spacelauncher\Spacelauncher.sln
+    projectPath: Spacelauncher.sln
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Temp\FSTimeGet-be280fc584b234e44be51647b90f7ecf
+    fullPath: C:\Users\dinos\OneDrive\Documentos\GitHub\Spacelauncher\Temp\FSTimeGet-be280fc584b234e44be51647b90f7ecf
+    projectPath: Temp\FSTimeGet-be280fc584b234e44be51647b90f7ecf
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityLockfile
+    fullPath: C:\Users\dinos\OneDrive\Documentos\GitHub\Spacelauncher\Temp\UnityLockfile
+    projectPath: Temp\UnityLockfile
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\workerlic
+    fullPath: C:\Users\dinos\OneDrive\Documentos\GitHub\Spacelauncher\Temp\workerlic
+    projectPath: Temp\workerlic
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: UserSettings\Layouts\default-2021.dwlt
+    fullPath: C:\Users\dinos\OneDrive\Documentos\GitHub\Spacelauncher\UserSettings\Layouts\default-2021.dwlt
+    projectPath: UserSettings\Layouts\default-2021.dwlt
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
