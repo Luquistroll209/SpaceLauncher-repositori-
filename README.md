@@ -1,9 +1,9 @@
 # SpaceLanders
 
 **Descripción:**  
-Este es un proyecto de simulación espacial que comencé a desarrollar hace un tiempo. La idea principal era crear un universo virtual donde los jugadores pudieran explorar, gestionar recursos y simular la vida en el espacio. Sin embargo, debido a falta de tiempo y recursos, decidí abandonar el proyecto. A pesar de eso, el código base aún contiene ideas interesantes y puede ser un punto de partida para futuros desarrollos.
+Esto era un juego de simulación espacial que intente hacer, pero ya esta obsoleto
 
-![Simulación Espacial](ruta/a/tu/imagen.jpg) 
+---
 
 ## Tabla de Contenidos
 
